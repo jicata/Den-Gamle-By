@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Witch Hunt</title>
+<link href="Level1_Arial.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type"
+   content="text/html; chatset=utf-8" />
+</head>
+
+<body>
+<div id="container">
+<div> <!-- common pictures div -->
+<img src="ThisIsMyHeader.jpg" id="img1" title="Yright" /> 
+<img src="footer.jpg" id="img2" title="Footer!"  />
+</div> <!-- common pictures div -->
+
+<img src="Top2.jpg" id="TopHome" title="topimage" width="753" height:"170" border:"0"/>
+
+<div id="home_img">
+<img src="a931ced0f114e4e65a6bc8707d7271e0.jpg" id="SideImage1" />
+<img src="Colin.Witches.jpg" id="SideImage2" width="180"/>
+</div>
+<div id="home_imgtext">
+<p id="imgtext1">A witch being burned at the stake</p>
+<p id="imgtext2">A drawing from the medieval era depicting three witches plotting evil mischief</p>
+</div>
+
+
+
+<nav>
+<ul>
+<li id="sub"><a href="WHEH.html">Witch Hunt Event</a></li>
+<ul>
+<li class="subsub"><a href="WHEA.html">About the event </a></li> 
+<li class="subsub"><a href="WHEACT.html" >Activities and vendors</a></li>
+</ul>
+<li><a href="http://www.dengamleby.dk/priser/">Opening hours and prices</a></li>
+<li><a href="http://www.dengamleby.dk/kalender/">Calendar</a></li>
+<li><a href="http://www.dengamleby.dk/venner/">Museum Club Old Town Friends</a></li>
+<li><a href="http://www.dengamleby.dk/planlaeg-besoeg/boern-og-familier/">Children and family</a></li>
+<li><a href="http://www.dengamleby.dk/findvej/">Find your way</a></li>
+<li><a href="http://www.dengamleby.dk/parkering/">Parking</a></li>
+<li><a href="http://www.dengamleby.dk/praktisk-information/">Practical information</a></li>
+<li><a href="http://www.dengamleby.dk/planlaeg-besoeg/oversigtskort/">Overview map</a></li>
+<li><a href="http://www.dengamleby.dk/mad-og-drikke/">Food and drinks</a></li>
+<li><a href="http://www.dengamleby.dk/rundvisninger/">Tours</a></li>
+<li><a href="http://www.dengamleby.dk/selskaber-og-konferencer/">Companies, meetings and conferences</a></li>
+<li><a href="http://www.dengamleby.dk/erindringsformidling/">Commemorative Communicatin</a></li>
+<li><a href="http://www.dengamleby.dk/rabat/">Discounts and short breaks</a></li>
+</ul>
+</nav>
+
+<article>
+<h1> Witch Hunting </h1>
+<p> Black candles slowly burning, white fangs and flashing eyes, hell's wind and incantations summon living fire... dead and evil, heretics and misfits, sorcery and black rituals, shrieks and wails coming from unknown directions...no, this is not another Hollywood "horror"-movie production, this just a regular night of a medieval witch hunt. Do you think you have what it takes to partake in such a night? To face off against the dark and not give in to fear? If you think you are brave enough then welcome, to <a href="WHEA.html"id="joke"><strong>The Witch Hunt</strong></a> in Den Gamle By!</p>
+<br />
+<p> Do you want to take part in the single largest, most unique event in Aarhus of the year? Do you want you, your friends or family to have loads of fun while learning more about witchcraft and protectors of the holy faith? And don't worry! There will be no burning of witches or human sacrifice but instead a lot of dancing, singing, contests and medieval treats, like home brewed ale, a roasted rabbit and much more! </p>
+
+
+</article>
+
+</div>
+</body>
+</html>
+
