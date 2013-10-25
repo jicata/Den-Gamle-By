@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Activities and vendors</title>
+<link href="Level1_Arial.css" rel="stylesheet" type="text/css" />
+<link href="project 1.1/public_html/Level1_Arial.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type"
+   content="text/html; chatset=utf-8" />
+</head>
+
+<body>
+<div id="container">
+<div> <!-- common pictures div -->
+<img src="ThisIsMyHeader.jpg" id="img1" title="Yright" /> 
+<img src="footer.jpg" id="img2" title="Footer!"  />
+</div> <!-- common pictures div -->
+<img src="TopActivities.jpg" id="TopActivities" width="753"/>
+
+<div id="img_activities">
+<img src="archer.jpg" id="archer" width="180"/>
+<img src="3572278006_1e23a955af.jpg" id="hammer" width="180"/>
+<img src="beer)wow(.jpg" id="beer" width="180"/>
+<img src="nice chick.jpg" id="chick"/>
+</div>
+
+<div id="img_text_activities">
+<p id="textimg1"> Archery was very popular during medieval times, mainly because bows were deadly and relatively safe compared to sword fighting</p>
+<p id="textimg2"> Hammer throwing...it's harder than it looks </p>
+<p id="textimg3"> Ale brewed only with ingridients that were popular during the 16th century </p>
+<p id="textimg4"> There are many possibilities to explore...if you are adventurous!  </p>
+</div>
+<nav>
+<ul>
+<li id="sub"><a href="WHEH.html">Witch Hunt Event</a></li>
+<ul>
+<li class="subsub"><a href="WHEA.html">About the event </a></li> 
+<li class="subsub"><a href="WHEACT.html" >Activities and vendors</a></li>
+</ul>
+<li><a href="http://www.dengamleby.dk/priser/">Opening hours and prices</a></li>
+<li><a href="http://www.dengamleby.dk/kalender/">Calendar</a></li>
+<li><a href="http://www.dengamleby.dk/venner/">Museum Club Old Town Friends</a></li>
+<li><a href="http://www.dengamleby.dk/planlaeg-besoeg/boern-og-familier/">Children and family</a></li>
+<li><a href="http://www.dengamleby.dk/findvej/">Find your way</a></li>
+<li><a href="http://www.dengamleby.dk/parkering/">Parking</a></li>
+<li><a href="http://www.dengamleby.dk/praktisk-information/">Practical information</a></li>
+<li><a href="http://www.dengamleby.dk/planlaeg-besoeg/oversigtskort/">Overview map</a></li>
+<li><a href="http://www.dengamleby.dk/mad-og-drikke/">Food and drinks</a></li>
+<li><a href="http://www.dengamleby.dk/rundvisninger/">Tours</a></li>
+<li><a href="http://www.dengamleby.dk/selskaber-og-konferencer/">Companies, meetings and conferences</a></li>
+<li><a href="http://www.dengamleby.dk/erindringsformidling/">Commemorative Communicatin</a></li>
+<li><a href="http://www.dengamleby.dk/rabat/">Discounts and short breaks</a></li>
+</ul>
+
+</nav>
+<article>
+<h1>Activities and vendors during The Witch Hunt</h1>
+<p>Eventhough the main event is the focus of the event itself, there will be many more possibilities for you to explore in the medieval settings of Den Gamle By! We will mention some of them below but keep in mind that there will be many more that you will have to explore by yourself! </p>
+</article> 
+
+<article>
+<h2>Activities</h2>
+<h5>Archery</h5>
+<p> You think you are good with the bow and arrow? You think that you can best Robin Hood in a straight shoot out? Or maybe you have never touched the bow and you are even't certain which way is up? Doesn't matter! Our archery booth will make sure you are given a challenge appropriate to your level of expertise! Try it out, and who knows, maybe when the time comes you will be able to hit the apple! </p>
+<h5>Hammer Throwing</h5>
+<p>That's correct hammer throwing. It involves a hammer, which is has to be thrown.Bet you've never ttried that before, have you?. If you want to prove to your friends or family that you are the best hammer thrower around you have to throw it as far as possible. Are you ready to test your skills against many other enthusiasts? Or maybe you prefer to watch people faceplanting while trying as hard as they can? Visit our hammer throwing booth and get your piece of entertainment!</p>
+</article>
+
+<article>
+<h2>Vendors</h2>
+<p>There will be so many merchants and vendors off all sorts at the event that it would be innapropriate to list even half of them! So we will just mention a few of the most prominent traders and will leave you to judge whether or not it is worth paying them a visit!<strong> Ale brewers</strong> will certainly be the most prevelant kind of vendor out there, with modern beer brewing methods forbidden for the event, they will have no choice but offer only authentic medieval beer! <strong>Trinket sellers</strong> are certainly going to make their presence felt as well. Make sure to explore by yourself the rest of the vendors for there will be many many more!<p>
+</article>
+
+
+
+</div>
+</body>
+</html>
